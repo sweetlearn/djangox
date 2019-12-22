@@ -1,19 +1,3 @@
-<img width="400" src="logo.png" alt="DjangoX logo">
-
-A framework for launching new Django projects quickly. Comes with a custom user model, email/password authentication, options for social authentication via Google/Facebook/Twitter/etc, and static assets.
-
-> **NOTE**: This open source project is supported by my three published books: [Django for Beginners](https://djangoforbeginners.com/), [Django for APIs](https://djangoforapis.com), and [Django for Professionals](https://djangoforprofessionals.com).
-
-## Features
-
-- For Django 2.2 and Python 3.7
-- Modern virtual environments with [pipenv](https://github.com/pypa/pipenv)
-- Styling with [Bootstrap](https://github.com/twbs/bootstrap) v4.1.3
-- Custom user model
-- Email/password for log in/sign up instead of Django's default username/email/password pattern
-- Social authentication via [django-allauth](https://github.com/pennersr/django-allauth)
-- [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar)
-
 ## First-time setup
 
 1.  Make sure Python 3.7x and Pipenv are already installed. [See here for help](https://djangoforbeginners.com/initial-setup/).
